@@ -1,0 +1,1 @@
+A simple blog app that uses all RESTful routes.
